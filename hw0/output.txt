@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Prateek Veeranna	
+   last: Sappadla
+email: pvs266@nyu.edu
+leaderboard: PrateekSapp
